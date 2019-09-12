@@ -1,0 +1,20 @@
+start
+1568173660.58
+('\xe5\xbc\x80\xe5\xa7\x8b\xe7\x88\xac\xe5\x8f\x96: ', 'https://itunes.apple.com/cn/app/id1475225384')
+('laiqiandashi', 'still on App Store')
+‎App Store 上的“来钱大师”
+1568173662.05
+('\xe5\xbc\x80\xe5\xa7\x8b\xe7\x88\xac\xe5\x8f\x96: ', 'https://itunes.apple.com/cn/app/id1366733557')
+('duduqianguan', 'has been removed from App Store')
+正在连接到 iTunes Store。
+end
+start
+1568173672.34
+('\xe5\xbc\x80\xe5\xa7\x8b\xe7\x88\xac\xe5\x8f\x96: ', 'https://itunes.apple.com/cn/app/id1475225384')
+('laiqiandashi', 'still on App Store')
+‎App Store 上的“来钱大师”
+1568173673.22
+('\xe5\xbc\x80\xe5\xa7\x8b\xe7\x88\xac\xe5\x8f\x96: ', 'https://itunes.apple.com/cn/app/id1366733557')
+('duduqianguan', 'has been removed from App Store')
+正在连接到 iTunes Store。
+end

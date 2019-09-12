@@ -1,0 +1,1 @@
+python /Users/rihuangli/Desktop/脚本/appstore_monitoring/index.py
